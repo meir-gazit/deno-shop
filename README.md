@@ -1,5 +1,7 @@
-<div align="center"> ![image](https://github.com/meir-gazit/deno-shop/assets/76516881/ae4166fd-64d8-476c-8313-dd6877df831c) </div>
 
+#
+<div align="center"> ![image](https://github.com/meir-gazit/deno-shop/assets/76516881/ae4166fd-64d8-476c-8313-dd6877df831c) </div>
+#
 
 A super simple e-commerce starter. Inspired by [Deno Blog](https://deno.land/x/blog).
 
