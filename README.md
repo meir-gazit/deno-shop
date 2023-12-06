@@ -1,5 +1,6 @@
-# <div align='center'> ![image](https://github.com/meir-gazit/deno-shop/assets/76516881/77fd2f81-90cb-4d2d-9653-780fc6149762) </div>
+# <div align='center' height="150px" width="150px" style="max-width: 100%;" alt="the deno mascot dinosaur standing in the rain"> ![image](https://github.com/meir-gazit/deno-shop/assets/76516881/77fd2f81-90cb-4d2d-9653-780fc6149762) </div>
 #
+
 A super simple e-commerce starter. Inspired by [Deno Blog](https://deno.land/x/blog).
 #
 ! WIP: This project is very much a work-in-progress. This is not a fully-featured application yet. Everything is subject to change.
