@@ -1,9 +1,8 @@
-# <div align='center'> ![image](https://github.com/meir-gazit/deno-shop/assets/76516881/55bea963-fa9b-473e-abc0-ed4c1eb6ab6d) </div>
 #
-
-
+<div align='center'> ![image](https://github.com/meir-gazit/deno-shop/assets/76516881/55bea963-fa9b-473e-abc0-ed4c1eb6ab6d) </div>
+#
 A super simple e-commerce starter. Inspired by [Deno Blog](https://deno.land/x/blog).
-#
+
 ! WIP: This project is very much a work-in-progress. This is not a fully-featured application yet. Everything is subject to change.
 
 ## Get Started
