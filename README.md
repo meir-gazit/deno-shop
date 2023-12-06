@@ -1,4 +1,4 @@
-# Simple Shop
+# ![image](https://github.com/meir-gazit/deno-shop/assets/76516881/77fd2f81-90cb-4d2d-9653-780fc6149762) Simple Shop
 
 A super simple e-commerce starter. Inspired by [Deno Blog](https://deno.land/x/blog).
 
